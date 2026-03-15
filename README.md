@@ -70,14 +70,14 @@ A web-based application for managing school operations.
 
 ## Screenshots
 ![Screenshot 1](public/screenshots/Screenshot%202026-03-15%20154721.png)
-![Screenshot 2](link_to_screenshot_2)
-![Screenshot 3](link_to_screenshot_3)
-![Screenshot 4](link_to_screenshot_4)
-![Screenshot 5](link_to_screenshot_5)
-![Screenshot 6](link_to_screenshot_6)
-![Screenshot 7](link_to_screenshot_7)
-![Screenshot 8](link_to_screenshot_8)
-![Screenshot 9](link_to_screenshot_9)
+![Screenshot 2](public/screenshots/Screenshot%202026-03-15%20154758.png)
+![Screenshot 3](public/screenshots/Screenshot%202026-03-15%20154814.png)
+![Screenshot 4](public/screenshots/Screenshot%202026-03-15%20154842.png)
+![Screenshot 5](public/screenshots/Screenshot%202026-03-15%20154934.png)
+![Screenshot 6](public/screenshots/Screenshot%202026-03-15%20154952.png)
+![Screenshot 7](public/screenshots/Screenshot%202026-03-15%20155012.png)
+![Screenshot 8](public/screenshots/Screenshot%202026-03-15%20155132.png)
+![Screenshot 9](public/screenshots/Screenshot%202026-03-15%20155152.png)
 
 ## Installation
 Instructions for installation.
