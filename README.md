@@ -69,7 +69,7 @@ A web-based application for managing school operations.
 - Feature 3
 
 ## Screenshots
-![Screenshot 1](link_to_screenshot_1)
+![Screenshot 1](public/screenshots/Screenshot%202026-03-15%20154721.png)
 ![Screenshot 2](link_to_screenshot_2)
 ![Screenshot 3](link_to_screenshot_3)
 ![Screenshot 4](link_to_screenshot_4)
