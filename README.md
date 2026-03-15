@@ -1,9 +1,6 @@
-
-
 School Management System
 
-A modern School Management System built with React.js, Node.js,.
-This platform provides separate dashboards for Admin, Teachers, and Students to manage academic activities efficiently.
+A modern School Management System built with React.js, Node.js,. This platform provides separate dashboards for Admin, Teachers, and Students to manage academic activities efficiently.
 
 The system allows administrators to manage students, teachers, academic records, results, and school operations through a centralized and secure interface.
 
@@ -61,13 +58,10 @@ Progress tracking
 
 
 
-
-
-
 ## Screenshots
 
-![Admin Dashboard](public/screenshots/Screenshot%2026-03-15 154721.png)
+![Admin Dashboard](public/screenshots/Screenshot%2026-03-15%20154721.png)
 
-![Student Portal](./screenshots/student-portal.png)
+![Student Portal](public/screenshots/student-portal.png)
 
-![Results Ledger](./screenshots/results-ledger.png)
+![Results Ledger](public/screenshots/results-ledger.png)
