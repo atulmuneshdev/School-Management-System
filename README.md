@@ -58,10 +58,26 @@ Progress tracking
 
 
 
+# School Management System
+
+## Introduction
+A web-based application for managing school operations.
+
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
+
 ## Screenshots
+![Screenshot 1](link_to_screenshot_1)
+![Screenshot 2](link_to_screenshot_2)
+![Screenshot 3](link_to_screenshot_3)
+![Screenshot 4](link_to_screenshot_4)
+![Screenshot 5](link_to_screenshot_5)
+![Screenshot 6](link_to_screenshot_6)
+![Screenshot 7](link_to_screenshot_7)
+![Screenshot 8](link_to_screenshot_8)
+![Screenshot 9](link_to_screenshot_9)
 
-![Admin Dashboard](public/screenshots/Screenshot%2026-03-15%20154721.png)
-
-![Student Portal](public/screenshots/student-portal.png)
-
-![Results Ledger](public/screenshots/results-ledger.png)
+## Installation
+Instructions for installation.
