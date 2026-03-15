@@ -81,7 +81,7 @@ Progress tracking
 
 ## Screenshots
 
-![Admin Dashboard](public/screenshots/Screenshot 2026-03-15 154721.png)
+![Admin Dashboard](./screenshots/Screenshot 2026-03-15 154721.png)
 
 ![Student Portal](./screenshots/student-portal.png)
 
